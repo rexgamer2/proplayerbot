@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    background-color: #1A1A1A;
+  }
+  
+  .cover {
+    height: 400px;
+    background-image: url(https://cdn.glitch.me/355bbf00-f953-4457-b032-e51b85b4611f/355bbf00-f953-4457-b032-e51b85b4611f_FlexBotStudio%C2%A9%20banner.jpg?v=1639903032849);
+    color: white;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: darken;
+  }
+  
+  .card {
+    border: 0 !important;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+      0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  }
+  
+  .boton {
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem auto 0;
+    padding: 1rem 0 0.75rem 0;
+    width: 100%;
+    flex-wrap: wrap;
+    border-top: 4px solid #404040;
+  }
+  
+  .footer {
+    height: 60xp;
+    background: #404040;
+  }
+  
+  .copyright {
+    color: white;
+  }
+  
+  .developer {
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem auto 0;
+    padding: 1rem 0 0.75rem 0;
+    width: 100%;
+    flex-wrap: wrap;
+    background: #404040;
+  }
+  
+  .flexbot {
+    color: white;
+  }
+  
+  .anuncio {
+    height: 60px;
+    background: #585858
+  }
